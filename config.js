@@ -1,5 +1,5 @@
 window.PorfolioConfig = {
-  name: 'Gabriel Batalha Coxev',
+  name: 'Gabriel',
   jobTitle: 'Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor & Hacking',
   jobDescription: 'Cursando Análise e Desenvolvimento de Sistemas. Apaixonado por programação, segurança cibernética e automação. Estou sempre buscando novos desafios e evoluindo minhas habilidades.',
   skills: [
