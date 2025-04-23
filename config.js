@@ -1,68 +1,71 @@
 window.PorfolioConfig = {
-  name: 'John Doe',
-  jobTitle: 'Full-stack Web Developer',
-  jobDescription: 'Sit quis in tempor quis. Nisi ex exercitation in irure. Reprehenderit sint aliqua et dolore enim laboris dolore exercitation magna aliqua ex ad.',
+  name: 'Gabriel Batalha Coxev',
+  jobTitle: 'Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor & Hacking',
+  jobDescription: 'Cursando Análise e Desenvolvimento de Sistemas. Apaixonado por programação, segurança cibernética e automação. Estou sempre buscando novos desafios e evoluindo minhas habilidades.',
   skills: [
     {
-      name: 'JavaScript',
-      description: 'Reprehenderit mollit id ad veniam.'
+      name: 'C#',
+      description: 'Desenvolvimento de aplicações com ASP.NET Core MVC e boas práticas em arquitetura.'
     },
     {
-      name: 'HTML',
-      description: 'Fugiat veniam esse consequat quis cillum elit consequat Lorem pariatur ipsum veniam irure incididunt non.'
+      name: 'ASP.NET Core',
+      description: 'Criação de APIs e web apps escaláveis usando ASP.NET Core e Entity Framework.'
     },
     {
-      name: 'CSS',
-      description: 'Elit tempor mollit consectetur laborum nostrud qui in.'
+      name: 'SQL',
+      description: 'Modelagem de bancos de dados relacionais e queries otimizadas.'
+    },
+    {
+      name: 'Python',
+      description: 'Automação de tarefas e scripts, incluindo marcação automática de ponto.'
     }
   ],
   works: [
     {
-      name: 'Vue Stripe Checkout',
-      link: 'https://jofftiquez.github.io/vue-stripe-checkout',
-      description: 'Mollit dolor tempor adipisicing non pariatur in tempor cillum do. In officia ullamco laborum ullamco voluptate. Laboris sunt quis enim Lorem laboris aliquip duis non magna excepteur voluptate. Pariatur velit aliquip officia nulla anim reprehenderit deserunt. Sint nostrud ipsum do aliquip.'
+      name: 'Pwnroot',
+      link: '#', // adicione o link quando publicar
+      description: 'Listener interativo com envio de módulos (LinPEAS, etc.) via HTTP para pentests.'
     },
     {
-      name: 'ToDo App',
-      link: 'https://theuselessweb.com/',
-      description: 'Esse magna anim incididunt enim sint aute consectetur ipsum id nostrud eu do. Pariatur et anim enim aliquip anim. Laboris labore incididunt labore enim nisi elit excepteur deserunt irure exercitation exercitation. Lorem sit ad laborum sit velit veniam sit nisi nostrud occaecat duis nulla duis.'
+      name: 'Ghostmode Car',
+      link: '#',
+      description: 'Sistema stealth que apaga eletrônicos do carro com um clique para trackdays.'
     },
     {
-      name: 'A Mobile Game',
-      link: 'https://theuselessweb.com/',
-      description: 'Incididunt non cupidatat deserunt ut commodo qui non do Lorem. Qui aute minim enim sit magna est consectetur incididunt. Ex est cupidatat tempor pariatur deserunt labore tempor minim laboris magna ipsum minim ea ea. Consectetur do anim laboris nulla nisi veniam sint qui.'
+      name: 'Auto-Ponto',
+      link: '#',
+      description: 'Script Python que marca ponto automático respeitando sábados, domingos e feriados.'
+    },
+    {
+      name: 'Pi Hacktool',
+      link: '#',
+      description: 'Toolkit físico em Raspberry Pi para hacking educativo e demonstrações em vídeo.'
     }
   ],
   hobbies: [
     {
-      name: 'Rock Climbing',
-      description: 'Occaecat ipsum dolor ea ad ut irure do proident excepteur consectetur duis eu culpa velit.'
+      name: 'Programação',
+      description: 'Desenvolver soluções do zero e explorar novas linguagens.'
     },
     {
-      name: 'Surfing',
-      description: 'Laboris occaecat adipisicing culpa duis aute ea excepteur quis eiusmod mollit est pariatur.'
+      name: 'Hacking',
+      description: 'Testes de segurança, TryHackMe e exploração de vulnerabilidades.'
     },
     {
-      name: 'Rubick\'s Cube',
-      description: 'Laborum pariatur sint labore officia enim occaecat id.'
+      name: 'TryHackMe',
+      description: 'Desafios práticos de segurança cibernética para aprendizado contínuo.'
+    },
+    {
+      name: 'Coding',
+      description: 'Resolver problemas de lógica em plataformas de coding e desafios.'
     }
   ],
   contacts: {
-    email: 'john.doe@gmail.com',
-    mobileNo: '+639171234567',
-    phoneNo: '+12 345 6789',
+    email: 'gabrielbcoxev@gmail.com',
     links: [
       {
         name: 'GitHub',
-        link: 'https://github.com/jofftiquez'
-      },
-      {
-        name: 'Facebook',
-        link: 'https://facebook.com/jofftiquez'
-      },
-      {
-        name: 'Twitter',
-        link: 'https://twitter.com/jrtiquez'
+        link: 'https://github.com/mednick-sys'
       }
     ]
   }
